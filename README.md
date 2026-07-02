@@ -104,9 +104,10 @@ Interactive Reporting
 Improve logistics to reduce late deliveries and enhance customer experience.
 Promote high-performing categories such as Baby Care and Personal Care through targeted marketing campaigns.
 Encourage digital payments by expanding UPI-based offers and cashback programs.
-Investigate the causes of order cancellations and returns to improve fulfillment efficiency.
+Investigate the causes of order cancellations and returns to improve fulfilment efficiency.
 Focus on improving customer ratings through faster deliveries and better service quality.
 
+# Dashboard Preview
 Screenshots / Demos
-show what the dashboard looks like: 
-https://github.com/lingaprabhu-mylsaamy/Zepto-Sales-Dashboard/blob/main/Zepto%20Dashboard.png
+Show what the dashboard looks like: 
+![Zepto Dashboard](https://raw.githubusercontent.com/lingaprabhu-mylsaamy/Zepto-Sales-Dashboard/main/Zepto%20Dashboard.png)
