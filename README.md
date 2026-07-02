@@ -109,5 +109,5 @@ Focus on improving customer ratings through faster deliveries and better service
 
 # Dashboard Preview
 Screenshots / Demos
-Show what the dashboard looks like: 
+shows what the dashboard looks like: 
 ![Zepto Dashboard](https://raw.githubusercontent.com/lingaprabhu-mylsaamy/Zepto-Sales-Dashboard/main/Zepto%20Dashboard.png)
