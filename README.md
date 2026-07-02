@@ -1,5 +1,5 @@
-# Zepto- Sales & Delivey analytics Dashboard
-Developed an interactive Power BI dashboard to analyze Zepto's sales, customer behavior, payment methods, delivery performance, and product category trends. The dashboard helps stakeholders monitor business KPIs, identify operational bottlenecks, and make data-driven decisions.
+# Zepto- Sales & Delivery analytics Dashboard
+Developed an interactive Power BI dashboard to analyze Zepto's sales, customer behaviour, payment methods, delivery performance, and product category trends. The dashboard helps stakeholders monitor business KPIs, identify operational bottlenecks, and make data-driven decisions.
 
 The objective of this dashboard is to:
 * Monitor overall business performance.
@@ -11,8 +11,8 @@ The objective of this dashboard is to:
 
 # Dashboard Insights
 1) Revenue Performance💰 
-Generated a total revenue of 36 Million.
-Revenue remained relatively stable throughout the analysis period with a few seasonal fluctuations.
+Generated a total revenue of 36 million.
+Revenue remained relatively stable throughout the analysis period, with a few seasonal fluctuations.
 Peak revenue reached approximately 1.67M, while the lowest month recorded around 1.29M.
 📦 Delivery Performance
 50.32% of orders were delivered late.
