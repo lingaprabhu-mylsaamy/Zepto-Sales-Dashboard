@@ -108,6 +108,6 @@ Investigate the causes of order cancellations and returns to improve fulfilment 
 Focus on improving customer ratings through faster deliveries and better service quality.
 
 # Dashboard Preview
-Screenshots / Demos
+Screenshots / Demo
 shows what the dashboard looks like: 
 ![Zepto Dashboard](https://raw.githubusercontent.com/lingaprabhu-mylsaamy/Zepto-Sales-Dashboard/main/Zepto%20Dashboard.png)
